@@ -91,8 +91,9 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.webp");
     background-size: 280px 280px;
+    
+   
 }
 
 .b-parallax {
@@ -736,7 +737,8 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #170902!important;
+    background-color: rgba(165, 147, 99, 0.7);
 }
 
 .portfolio-thumb {
@@ -767,19 +769,21 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-image: #364577;
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #FFFFFF;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
+    
+   
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #170902;
     color: #FFFFFF!important;
 }
 
@@ -797,7 +801,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: #170902!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -810,7 +814,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.webp");
+    background-color: #170902;
 }
 
 .bg-lines-h2-bg {
